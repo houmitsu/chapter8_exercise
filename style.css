@@ -1,0 +1,127 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+main {
+  margin: 0 auto;
+  width: 960px;
+}
+
+.list {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.list1 {
+  background-color: gray;
+}
+.list-text1 {
+  padding: 20px;
+}
+
+.list2 {
+  background-color: white;
+}
+.list-text2 {
+  padding: 20px;
+}
+
+.list3 {
+  background-color: gray;
+}
+.list-text3 {
+  padding: 20px;
+}
+
+.list4 {
+  background-color: white;
+}
+.list-text4 {
+  padding: 20px;
+}
+
+.list5 {
+  background-color: gray;
+}
+.list-text5 {
+  padding: 20px;
+}
+
+.list6 {
+  background-color: white;
+}
+.list-text6 {
+  padding: 20px;
+}
+
+.list7 {
+  background-color: gray;
+}
+.list-text7 {
+  padding: 20px;
+}
+
+.box {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 50px;
+}
+
+.box1 {
+  background-color: orange;
+  height: 200px;
+  width: 30%;
+  margin-right: 5%;
+  margin-bottom: 40px;
+}
+.box2 {
+  background-color: yellow;
+  height: 200px;
+  width: 30%;
+  margin-right: 5%;
+  margin-bottom: 40px;
+}
+.box3 {
+  background-color: yellow;
+  height: 200px;
+  width: 30%;
+  margin-bottom: 40px;
+}
+.box4 {
+  background-color: yellow;
+  height: 200px;
+  width: 30%;
+  margin-right: 5%;
+  margin-bottom: 40px;
+}
+.box5 {
+  background-color: orange;
+  height: 200px;
+  width: 30%;
+  margin-right: 5%;
+  margin-bottom: 40px;
+}
+.box6 {
+  background-color: yellow;
+  height: 200px;
+  width: 30%;
+  margin-bottom: 40px;
+}
+.box7 {
+  background-color: yellow;
+  height: 200px;
+  width: 30%;
+  margin-right: 5%;
+}
+.box8 {
+  background-color: yellow;
+  height: 200px;
+  width: 30%;
+  margin-right: 5%;
+}
+.box9 {
+  background-color: orange;
+  height: 200px;
+  width: 30%;
+}
